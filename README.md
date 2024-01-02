@@ -14,12 +14,3 @@ We are a group of ladies that are a part of the 2017 Girls Who Code Cohort.
 ## Demo
 
 Visit our site here: https://baxically.github.io/LEA/home.html
-
-
-## Features
-
-- Organized dropdowns
-- Image hover
-- Parallax scrolling
-
-
