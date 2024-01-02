@@ -23,7 +23,3 @@ Visit our site here: https://baxically.github.io/LEA/home.html
 - Parallax scrolling
 
 
-## Screenshots
-![Home Page](https://cdn.discordapp.com/attachments/814359895704469566/1191884661438300170/image.png?ex=65a71017&is=65949b17&hm=b3d079a89955ad4ebc79d3e973ee121b3b9a0e4a9d5f5842c78624e8cbac5812&)
-
-
